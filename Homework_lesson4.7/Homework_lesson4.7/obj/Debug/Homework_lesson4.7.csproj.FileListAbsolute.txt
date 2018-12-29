@@ -1,0 +1,6 @@
+C:\Users\GAL\Desktop\תיכנות\Dot-net קורס-\מיון שיעורי בית\שיעור 4\Homework_lesson4.7\Homework_lesson4.7\bin\Debug\Homework_lesson4.7.exe.config
+C:\Users\GAL\Desktop\תיכנות\Dot-net קורס-\מיון שיעורי בית\שיעור 4\Homework_lesson4.7\Homework_lesson4.7\bin\Debug\Homework_lesson4.7.exe
+C:\Users\GAL\Desktop\תיכנות\Dot-net קורס-\מיון שיעורי בית\שיעור 4\Homework_lesson4.7\Homework_lesson4.7\bin\Debug\Homework_lesson4.7.pdb
+C:\Users\GAL\Desktop\תיכנות\Dot-net קורס-\מיון שיעורי בית\שיעור 4\Homework_lesson4.7\Homework_lesson4.7\obj\Debug\Homework_lesson4.7.csproj.CoreCompileInputs.cache
+C:\Users\GAL\Desktop\תיכנות\Dot-net קורס-\מיון שיעורי בית\שיעור 4\Homework_lesson4.7\Homework_lesson4.7\obj\Debug\Homework_lesson4.7.exe
+C:\Users\GAL\Desktop\תיכנות\Dot-net קורס-\מיון שיעורי בית\שיעור 4\Homework_lesson4.7\Homework_lesson4.7\obj\Debug\Homework_lesson4.7.pdb
