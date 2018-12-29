@@ -1,0 +1,14 @@
+C:\Users\GAL\Documents\Visual Studio 2017\Projects\Homework_lesson4.2\Homework_lesson4.2\bin\Debug\Homework_lesson4.2.exe.config
+C:\Users\GAL\Documents\Visual Studio 2017\Projects\Homework_lesson4.2\Homework_lesson4.2\bin\Debug\Homework_lesson4.2.exe
+C:\Users\GAL\Documents\Visual Studio 2017\Projects\Homework_lesson4.2\Homework_lesson4.2\bin\Debug\Homework_lesson4.2.pdb
+C:\Users\GAL\Documents\Visual Studio 2017\Projects\Homework_lesson4.2\Homework_lesson4.2\obj\Debug\Homework_lesson4.2.csprojAssemblyReference.cache
+C:\Users\GAL\Documents\Visual Studio 2017\Projects\Homework_lesson4.2\Homework_lesson4.2\obj\Debug\Homework_lesson4.2.csproj.CoreCompileInputs.cache
+C:\Users\GAL\Documents\Visual Studio 2017\Projects\Homework_lesson4.2\Homework_lesson4.2\obj\Debug\Homework_lesson4.2.exe
+C:\Users\GAL\Documents\Visual Studio 2017\Projects\Homework_lesson4.2\Homework_lesson4.2\obj\Debug\Homework_lesson4.2.pdb
+C:\Users\GAL\Desktop\תיכנות\Dot-net קורס-\מיון שיעורי בית\שיעור 4\Homework_lesson4.2\Homework_lesson4.2\bin\Debug\Homework_lesson4.2.exe.config
+C:\Users\GAL\Desktop\תיכנות\Dot-net קורס-\מיון שיעורי בית\שיעור 4\Homework_lesson4.2\Homework_lesson4.2\bin\Debug\Homework_lesson4.2.exe
+C:\Users\GAL\Desktop\תיכנות\Dot-net קורס-\מיון שיעורי בית\שיעור 4\Homework_lesson4.2\Homework_lesson4.2\bin\Debug\Homework_lesson4.2.pdb
+C:\Users\GAL\Desktop\תיכנות\Dot-net קורס-\מיון שיעורי בית\שיעור 4\Homework_lesson4.2\Homework_lesson4.2\obj\Debug\Homework_lesson4.2.csprojAssemblyReference.cache
+C:\Users\GAL\Desktop\תיכנות\Dot-net קורס-\מיון שיעורי בית\שיעור 4\Homework_lesson4.2\Homework_lesson4.2\obj\Debug\Homework_lesson4.2.csproj.CoreCompileInputs.cache
+C:\Users\GAL\Desktop\תיכנות\Dot-net קורס-\מיון שיעורי בית\שיעור 4\Homework_lesson4.2\Homework_lesson4.2\obj\Debug\Homework_lesson4.2.exe
+C:\Users\GAL\Desktop\תיכנות\Dot-net קורס-\מיון שיעורי בית\שיעור 4\Homework_lesson4.2\Homework_lesson4.2\obj\Debug\Homework_lesson4.2.pdb
